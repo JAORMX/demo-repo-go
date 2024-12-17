@@ -1,5 +1,7 @@
 # demo-repo-go 🦦
 
+CHANGES
+
 ## Overview
 
 The `demo-repo-go` project is a repository template primarily intended for testing and
