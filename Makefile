@@ -1,4 +1,5 @@
 # Replace this with your image name, i.e. ghcr.io/<your-username>/demo-repo-go:latest
+#
 IMAGE_NAME?=ghcr.io/stacklok/demo-repo-go:latest
 
 # Lowercase the image name to handle mixed-case GitHub org/repo names
